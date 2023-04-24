@@ -5,8 +5,7 @@
  
  
  
- 
- 
+  
  📚  Atualmente Cursando Tecnologia da infomação na Ulbra São Lucas
  
  
@@ -15,11 +14,8 @@
  
  
  
- 
- 
+  
  🎓 Ensino médio completo
- 
- 
  
  
  
