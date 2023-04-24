@@ -1,3 +1,4 @@
- #Oii sou Bernardo Rode, Estudante de TI do Colegio Ulbra São Lucas 
+ #Oii sou Bernardo Rode
+ 📚  Atualmente Cursando Tecnologia da infomação na Ulbra São Lucas
  
  
