@@ -24,7 +24,7 @@
  
  
  
- 🏠 Moro em Sapucaia do Sul
+ 🏠 Rio grande do sul
  
  
  
