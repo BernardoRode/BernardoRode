@@ -4,7 +4,7 @@
 
 <p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e estou finalizando o curso de Técnico em Informática. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades, principalmente em programação, desenvolvimento de software e tecnologias emergentes.
 
-<img align="right" alt="" height="150px" src="https://github.com/user-attachments/assets/182af21a-6b38-4197-b1a1-50863db899d2">
+<img align="right" alt="" height="200px" margin-top="20%" src="https://github.com/user-attachments/assets/182af21a-6b38-4197-b1a1-50863db899d2">
 
 <h3 align="left">Connect with me!</h3>
 
