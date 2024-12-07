@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bernardo Rode 🖐️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=AA00F7&width=435&lines=Welcome+to+my+profile+(%E2%80%A2%E2%80%BF%E2%80%A2))](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me!</h3>
 
