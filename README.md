@@ -38,10 +38,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-### Últimos Projetos:
-- [Projeto Consultório Dentista (https://github.com/BernardoRode/Sorriso_Perfeito.git)<br/>
-- [Projeto Noticiário (https://github.com/BernardoRode/projeto_crud.git)<br/>
-- [Projeto Loja de roupa (https://github.com/BernardoRode/Page.git)<br/>
