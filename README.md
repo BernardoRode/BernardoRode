@@ -2,11 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=AA00F7&width=435&lines=Welcome+to+my+profile+(%E2%80%A2%E2%80%BF%E2%80%A2)" alt="Typing SVG" />
 </p>
 
+#
+
 <p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e estou finalizando o curso de Técnico em Informática. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades, principalmente em programação, desenvolvimento de software e tecnologias emergentes.
 
 <div style="margin-top: 20px;">
   <img align="right" alt="" height="200px" src="https://github.com/user-attachments/assets/182af21a-6b38-4197-b1a1-50863db899d2">
 </div>
+
+#
 
 <h3 align="left">Connect with me!</h3>
 
@@ -30,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
 </div>
 
+#
+
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
@@ -39,6 +45,8 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
