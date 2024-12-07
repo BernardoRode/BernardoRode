@@ -6,8 +6,6 @@
 
 <p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e estou finalizando o curso de Técnico em Informática. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades, principalmente em programação, desenvolvimento de software e tecnologias emergentes.</p>
 
-<img align="right" margin-top="20px" alt="" height="190px" src="./src/manstudy.gif">
-
 #
 
 <h3 align="left">Connect with me!</h3>
