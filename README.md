@@ -6,7 +6,6 @@
 
 <p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e estou finalizando o curso de Técnico em Informática. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades, principalmente em programação, desenvolvimento de software e tecnologias emergentes.
 
-<div
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/182af21a-6b38-4197-b1a1-50863db899d2">
 
 #
@@ -31,7 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
-</div>
 </div>
 #
 
